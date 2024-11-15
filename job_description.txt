@@ -1,0 +1,34 @@
+About the job
+Sr. Engineer: AI/ML 
+
+Location: Boston, MA- Onsite
+
+Duration - Full Time
+
+About BigRio:
+BigRio is a remote-based, technology consulting firm with headquarters in Boston, MA. We deliver solutions ranging from: custom development, software implementation, data analytics, and machine learning/AI integrations. We are a one-stop shop that attracts clients from a variety of industries because of our proven ability to deliver cutting-edge and cost-conscious software solutions.
+With extensive domain knowledge, BigRio has teams of data architects, data engineers, software engineers, web developers, and consultants who deliver best-in-class solutions across a variety of verticals. Our diverse industry exposure equips us with invaluable tools, tricks, and techniques to tackle complex software and data challenges.
+
+About Work:
+Strong background in Machine Learning applied to complex spatial computing, image and video processing, and visualization applications. Individual contributor and work on the design, development, and‬ implementation of machine learning models for radar-based health and safety‬ platforms. Collaborative team environment to help envision,‬ architect, and prioritize the platform’s artificial intelligence features.‬ Experience with digital signal‬ processing experience and/or radar data processing‬ applications will be helpful.
+
+Key Technical Requirements:
+Proven industry experience as an AI/ML Engineer, with a focus on radar and RF signals, video and image processing, or classification.
+Proficiency in implementing signal processing algorithms using programming languages such as Python, MATLAB, or C/C++
+Fluency in Python, machine learning frameworks (Pytorch, Tensorflow, etc.), data science tools (NumPy/Scikit-learn), and cloud services (Google Cloud Platform).
+Extensive practical knowledge of Machine Learning techniques for images, deep learning network architectures (CNNs, GANs, etc.), regularization, loss functions, optimization strategies, etc.‬
+Experience with building and orchestrating multiple models using parallel and sequential architectures, tailoring the approach to the specific requirements and constraints of the problem at hand.‬
+Solid understanding of software development methodologies and version control systems.
+Experience with real-time signal processing, DSP platforms, or embedded systems.
+Strong knowledge of digital signal processing theory and techniques, including filtering, modulation, demodulation, and spectral analysis.
+Experience with one or more of the following: radar-to-image projection, image segmentation, video object detection, target detection in radar signal.
+Expertise in radar signal processing and object detection from RF signals, including algorithms such as CFAR, SVD, and other radar signal processing techniques.
+Experience implementing and optimizing data augmentation techniques (e.g., image flipping, rotation, scaling, filtering, text synonym replacement, SMOTE) to enhance model performance and robustness.‬
+
+Education and Experience:
+A Master's or PhD degree in Artificial Intelligence, Mathematics, Statistics, Physics, Electrical Engineering, Computer Engineering, or a related field, or equivalent work experience.‬
+10+ years of relevant experience in machine learning and data science, with healthcare AI a plus.
+Proven track record of leading and scaling high-performing data science and machine learning teams and successfully delivering complex, impactful projects.
+Real-world work experience in relevant roles in a commercial setting.
+Ideally, full life cycle experience with a consumer or patient product that has shipped and achieved meaningful commercial success.
+Preference for candidates with experience in a startup or fast-paced environment, as well as exposure to ambient sensing and sensor fusion technologies.
