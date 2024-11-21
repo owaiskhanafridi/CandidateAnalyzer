@@ -1,4 +1,5 @@
 **﻿Instructions to Use the Code: Analyze a Candidate's Resume Based on Job Description**
+
 This Python code analyzes a candidate's resume by comparing the skills listed in the resume with those mentioned in a job description. The script calculates the skill match percentage to determine how well the candidate's skills align with the job requirements.
 
 Steps to Use the Code
@@ -27,7 +28,8 @@ Resume Skills: Skills identified in the candidate's resume.
 Job Description Skills: Skills extracted from the job description.
 Skill Match Percentage: The percentage of overlap between the skills in the resume and the job description.
 
-Example Usage:
+**Example Usage:**
+
 Replace Resume.pdf with the path to the candidate's resume PDF.
 Replace job_description.txt with the path to the job description file.
 python
@@ -36,7 +38,9 @@ pdf_path = 'Resume.pdf'  # Path to the resume PDF
 job_description_path = 'job_description.txt'  # Path to the job description file
 
 main(pdf_path, job_description_path)
-Expected Output:
+
+**Expected Output:**
+
 The script will display the following:
 
 Extracted Skills from Resume: A list of matched skills in the resume.
@@ -49,7 +53,8 @@ Modify the SKILLS list to include industry-specific skills or keywords for bette
 Expand Functionality:
 
 Include additional metrics, such as keyword frequency, or compare soft skills if needed.
-Error Handling:
+
+**Error Handling:**
 
 Ensure proper file paths and formats are provided to avoid errors during execution.
 This script provides an efficient way to assess resume-job fit, making it ideal for recruiters or candidates preparing for targeted job applications.
